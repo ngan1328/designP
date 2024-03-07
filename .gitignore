@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/designP
+/.vs
+/designP/x64/Debug
+/designPUnitTests/x64/Debug
